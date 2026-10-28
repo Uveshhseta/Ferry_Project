@@ -46,7 +46,7 @@ Connected to local MongoDB (`mongodb://127.0.0.1:27017/pfr_ferry`) with full aut
 - Printable pass and cancellation/refund capability from **My Account**.
 
 ### 5. Dedicated Admin Operations Console
-- Secure gate: requires `admin` or `staff` credentials (`admin@pfr.test` / `admin123`).
+- Secure gate: requires `admin` or `staff` credential
 - **Overview Dashboard**: Real-time revenue, passenger counts, active fleet, and departure telemetry.
 - **User Management**: Search, filter, change roles, and deactivate/activate accounts.
 - **Booking & Passenger Management**: Inspect bookings, passengers, GST collected, and issue refunds.
